@@ -1,0 +1,11 @@
+D:\github\Operating-System\Problem02_2\bin\Debug\netcoreapp2.1\Problem02_2.deps.json
+D:\github\Operating-System\Problem02_2\bin\Debug\netcoreapp2.1\Problem02_2.runtimeconfig.json
+D:\github\Operating-System\Problem02_2\bin\Debug\netcoreapp2.1\Problem02_2.runtimeconfig.dev.json
+D:\github\Operating-System\Problem02_2\bin\Debug\netcoreapp2.1\Problem02_2.dll
+D:\github\Operating-System\Problem02_2\bin\Debug\netcoreapp2.1\Problem02_2.pdb
+D:\github\Operating-System\Problem02_2\obj\Debug\netcoreapp2.1\Problem02_2.csprojAssemblyReference.cache
+D:\github\Operating-System\Problem02_2\obj\Debug\netcoreapp2.1\Problem02_2.csproj.CoreCompileInputs.cache
+D:\github\Operating-System\Problem02_2\obj\Debug\netcoreapp2.1\Problem02_2.AssemblyInfoInputs.cache
+D:\github\Operating-System\Problem02_2\obj\Debug\netcoreapp2.1\Problem02_2.AssemblyInfo.cs
+D:\github\Operating-System\Problem02_2\obj\Debug\netcoreapp2.1\Problem02_2.dll
+D:\github\Operating-System\Problem02_2\obj\Debug\netcoreapp2.1\Problem02_2.pdb

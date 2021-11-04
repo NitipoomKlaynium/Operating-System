@@ -1,0 +1,11 @@
+D:\3\OS\Problem02_1\bin\Debug\netcoreapp2.1\Problem02_1.deps.json
+D:\3\OS\Problem02_1\bin\Debug\netcoreapp2.1\Problem02_1.runtimeconfig.json
+D:\3\OS\Problem02_1\bin\Debug\netcoreapp2.1\Problem02_1.runtimeconfig.dev.json
+D:\3\OS\Problem02_1\bin\Debug\netcoreapp2.1\Problem02_1.dll
+D:\3\OS\Problem02_1\bin\Debug\netcoreapp2.1\Problem02_1.pdb
+D:\3\OS\Problem02_1\obj\Debug\netcoreapp2.1\Problem02_1.csprojAssemblyReference.cache
+D:\3\OS\Problem02_1\obj\Debug\netcoreapp2.1\Problem02_1.csproj.CoreCompileInputs.cache
+D:\3\OS\Problem02_1\obj\Debug\netcoreapp2.1\Problem02_1.AssemblyInfoInputs.cache
+D:\3\OS\Problem02_1\obj\Debug\netcoreapp2.1\Problem02_1.AssemblyInfo.cs
+D:\3\OS\Problem02_1\obj\Debug\netcoreapp2.1\Problem02_1.dll
+D:\3\OS\Problem02_1\obj\Debug\netcoreapp2.1\Problem02_1.pdb

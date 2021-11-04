@@ -1,0 +1,11 @@
+D:\3\OS\Case_Study_02\bin\Debug\netcoreapp2.1\Case_Study_02.deps.json
+D:\3\OS\Case_Study_02\bin\Debug\netcoreapp2.1\Case_Study_02.runtimeconfig.json
+D:\3\OS\Case_Study_02\bin\Debug\netcoreapp2.1\Case_Study_02.runtimeconfig.dev.json
+D:\3\OS\Case_Study_02\bin\Debug\netcoreapp2.1\Case_Study_02.dll
+D:\3\OS\Case_Study_02\bin\Debug\netcoreapp2.1\Case_Study_02.pdb
+D:\3\OS\Case_Study_02\obj\Debug\netcoreapp2.1\Case_Study_02.csprojAssemblyReference.cache
+D:\3\OS\Case_Study_02\obj\Debug\netcoreapp2.1\Case_Study_02.csproj.CoreCompileInputs.cache
+D:\3\OS\Case_Study_02\obj\Debug\netcoreapp2.1\Case_Study_02.AssemblyInfoInputs.cache
+D:\3\OS\Case_Study_02\obj\Debug\netcoreapp2.1\Case_Study_02.AssemblyInfo.cs
+D:\3\OS\Case_Study_02\obj\Debug\netcoreapp2.1\Case_Study_02.dll
+D:\3\OS\Case_Study_02\obj\Debug\netcoreapp2.1\Case_Study_02.pdb
