@@ -20,9 +20,8 @@ namespace Problem02_2
                         return;
                     }
                     // Console.WriteLine("Enqueue | Front : {0}, Back : {1}", Front, Back);
-                    // Console.WriteLine("Back : {0}", Back);
-                    
-                } while((Back + 1) % 10 == Front); //Count == 10
+                    // Console.WriteLine("[{0}]", string.Join(", ", TSBuffer));
+                } while(Count == 10);
                 TSBuffer[Back] = eq;
                 Count += 1;
                 Back++;
@@ -39,7 +38,7 @@ namespace Problem02_2
                     }
                     // Console.WriteLine("Dequeue | Front : {0}, Back : {1}", Front, Back);
                     // Console.WriteLine("[{0}]", string.Join(", ", TSBuffer));
-                } while(Front == Back); //Count == 0
+                } while(Count == 0);
                 int x = 0;
                 x = TSBuffer[Front];
                 Front++;
@@ -112,7 +111,7 @@ namespace Problem02_2
             t2.Start(1);
             t21.Start(2);
             t22.Start(3);
-
+            
             Console.Read();
             exit = true;
             // Console.WriteLine("[{0}]", string.Join(", ", TSBuffer));
