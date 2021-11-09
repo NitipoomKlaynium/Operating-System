@@ -21,7 +21,7 @@ namespace Problem02_2
                     }
                     // Console.WriteLine("Enqueue | Front : {0}, Back : {1}", Front, Back);
                     // Console.WriteLine("[{0}]", string.Join(", ", TSBuffer));
-                } while(Count == 10);
+                } while(Count >= 10);
                 TSBuffer[Back] = eq;
                 Count += 1;
                 Back++;
@@ -38,7 +38,7 @@ namespace Problem02_2
                     }
                     // Console.WriteLine("Dequeue | Front : {0}, Back : {1}", Front, Back);
                     // Console.WriteLine("[{0}]", string.Join(", ", TSBuffer));
-                } while(Count == 0);
+                } while(Count <= 0);
                 int x = 0;
                 x = TSBuffer[Front];
                 Front++;
@@ -78,6 +78,7 @@ namespace Problem02_2
             }
         }
 
+        static object th02_Lock = new object(); 
 
         static void th02(object t)
         {
@@ -90,15 +91,17 @@ namespace Problem02_2
                     return;
                 }
 
-                j = DeQueue();
-                if (j == -1) {
-                    return;
+                lock (th02_Lock) {
+                    j = DeQueue();
+                    if (j == -1) {
+                        return;
+                    }
+                    Console.WriteLine("j={0}, thread:{1}", j, t);
                 }
-                Console.WriteLine("j={0}, thread:{1}", j, t);
                 Thread.Sleep(100);
             }
         }
-        static void Main(string[] args)
+        static void _Main(string[] args)
         {
             Thread t1 = new Thread(th01);
             Thread t11 = new Thread(th011);
