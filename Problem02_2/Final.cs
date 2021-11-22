@@ -101,7 +101,7 @@ namespace Problem02_2
                 Thread.Sleep(100);
             }
         }
-        static void Main(string[] args)
+        static void _Main(string[] args)
         {
             Thread t1 = new Thread(th01);
             Thread t11 = new Thread(th011);

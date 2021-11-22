@@ -93,7 +93,7 @@ namespace OS_Problem_02
                 Thread.Sleep(100);
             }
         }
-        static void _Main(string[] args)
+        static void Main(string[] args)
         {
             Thread t1 = new Thread(th01);
             Thread t11 = new Thread(th011);
